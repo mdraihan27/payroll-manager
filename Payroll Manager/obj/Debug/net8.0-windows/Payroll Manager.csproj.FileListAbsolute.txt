@@ -1,0 +1,20 @@
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll_Manager.MainForm.resources
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll_Manager.RegistrationForm.resources
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.csproj.GenerateResource.cache
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.AssemblyInfoInputs.cache
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.AssemblyInfo.cs
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.csproj.CoreCompileInputs.cache
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\bin\Debug\net8.0-windows\Payroll Manager.exe
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\bin\Debug\net8.0-windows\Payroll Manager.deps.json
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\bin\Debug\net8.0-windows\Payroll Manager.runtimeconfig.json
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\bin\Debug\net8.0-windows\Payroll Manager.dll
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\bin\Debug\net8.0-windows\Payroll Manager.pdb
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.dll
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\refint\Payroll Manager.dll
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.pdb
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll Manager.genruntimeconfig.cache
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\ref\Payroll Manager.dll
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll_Manager.DeleteForm.resources
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll_Manager.SalaryInfoForm.resources
+C:\Users\mdhos\source\repos\Payroll Manager\Payroll Manager\obj\Debug\net8.0-windows\Payroll_Manager.PaySalaryForm.resources
